@@ -6,7 +6,7 @@
 
 ## Установка
 
-Тестовая сборка APK и архив исходников доступны на странице релиза. [Скачать на GitHub](https://github.com/mrbeglita-ai/duble-apk/releases/tag/v0.1.0)
+Установочный файл и проект Android Studio доступны для скачивания. [Скачать APK](https://raw.githubusercontent.com/mrbeglita-ai/duble-apk/main/downloads/parallel-0.1.0-debug.apk) · [Скачать исходники](https://raw.githubusercontent.com/mrbeglita-ai/duble-apk/main/downloads/parallel-android-source.zip)
 
 1. Проверьте, что телефон поддерживает нескольких пользователей. Если в настройках есть раздел **Несколько пользователей**, включите его до первого запуска копии. Обычно раздел находится в настройках системы.
 2. Установите официальный Shizuku 13 или новее. В параметрах разработчика Android включите беспроводную отладку, выполните сопряжение и нажмите **Запустить** в Shizuku. После перезагрузки телефона снова запустите Shizuku. [Руководство Shizuku](https://shizuku.rikka.app/guide/setup/)
